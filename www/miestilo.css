@@ -1,0 +1,12 @@
+body{
+  background: #00BFFF;
+  text-align: justify;
+}
+h1{text-shadow: black 6px 6px 8px;}
+
+p{
+  font-family: serif;
+  color:#FFFAF0;
+  font-style: oblique;
+  font-size: 110%;
+}
